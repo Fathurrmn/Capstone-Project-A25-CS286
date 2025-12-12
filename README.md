@@ -18,7 +18,7 @@ Alur proyek terdiri dari tiga tahapan utama:
 Ikuti langkah-langkah berikut untuk menyiapkan lingkungan kerja lokal Anda agar kode dapat berjalan tanpa error.
 
 ### Prasyarat
-- Python < 3.10.
+- Python > 3.10.
 - Anaconda atau Virtualenv (disarankan).
 
 ### Langkah Instalasi
