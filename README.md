@@ -48,23 +48,6 @@ Ikuti langkah-langkah berikut untuk menyiapkan lingkungan kerja lokal Anda agar 
 
 ---
 
-## 3. Tautan Model ML & Dataset
-
-Proyek ini menghasilkan model K-Means dan dataset yang telah diproses. Anda dapat mengunduh atau memuat file berikut:
-
-* **Dataset Bersih (Cleaned Data):**
-    [Download Sales_Transaction_Cleaned.csv](./data/Sales_Transaction_Cleaned.csv)
-    *(Output dari Sprint 1)*
-
-* **Hasil Clustering (Customer Personas):**
-    [Download Hasil_Clustering_Customer.csv](./data/Hasil_Clustering_Customer.csv)
-    *(Output dari Sprint 2 & 3, digunakan sebagai input Sprint 4)*
-
-* **Model K-Means (Pickle File - Opsional):**
-    [Download kmeans_model.pkl](./models/kmeans_model.pkl)
-    *(Gunakan `joblib.load()` atau `pickle.load()` untuk memuat model ini tanpa training ulang)*
-
----
 
 ## 4. Cara Menjalankan Aplikasi
 
