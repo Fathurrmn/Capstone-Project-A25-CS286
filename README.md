@@ -1,6 +1,19 @@
 # Capstone Project A25-CS286
 # Analysis Customer Segmentation
 
+## 👨‍💻 Project Team
+
+- **Fathur Rahman**  
+  *Universitas Gunadarma*
+
+- **Dewa Bagus Putu Arya Dhananjaya**  
+  *Universitas Gunadarma*
+
+- **Afridho Tattaq Tavadhu**  
+  *Universitas Stikubank*
+
+---
+
 ## 1. Deskripsi Singkat Proyek
 Proyek ini adalah *end-to-end data science pipeline* yang bertujuan untuk mengidentifikasi segmen pelanggan dari data transaksi ritel dan merumuskan strategi bisnis yang dapat ditindaklanjuti.
 
